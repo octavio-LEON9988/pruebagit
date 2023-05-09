@@ -1,0 +1,70 @@
+
+
+body {background-color: rgb(104, 101, 101);}
+
+header {background-color: rgba(0, 0, 0, 0.676);
+       font-size: 40px;}
+
+a:hover {color: black;
+         background-color: aliceblue;
+         border-radius: 20%;}
+
+a {text-decoration: none;
+   color: aliceblue;}
+
+li{display: inline;
+   padding: 20px;}
+
+h1 {font-size: 40px;
+    font-weight: normal;
+    color:aliceblue} 
+
+main {background-color: rgba(0, 0, 0, 0.676);
+      font-family: 'IBM Plex Mono', monospace;
+      color: aliceblue;
+      padding: 20px;
+      margin: 100px;
+      border-radius: 30px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;}
+
+h5 {height: 50px;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-family: 'Cinzel', serif;}
+
+footer {background-color: rgba(0, 0, 0, 0.676);}
+
+footer p {color: aliceblue}
+
+.centrar {text-align: center;}
+
+img {width: 250px;
+    height: 150px;
+    border: double grey 2px;
+    opacity: .5;}    
+    
+
+img:hover {opacity: 1;
+           border: double white 2px;}
+
+.usuario {display: flex; flex-direction: column;}
+
+.navegador1 {display: flex;
+            justify-content: center;}
+
+.navegador2 {display: flex;
+            justify-content: center;}
+
+.navegador3 {display: flex;
+            justify-content: center;}
+
+.navegador4 {display: flex;
+            justify-content: center;}
+
+.navegador5 {display: flex;
+            justify-content: center;}
+  
+  
+            /*/ esto es un comentario /*/
